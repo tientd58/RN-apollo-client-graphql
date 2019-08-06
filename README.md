@@ -1,4 +1,4 @@
-## Mortgage Mobile
+## Kane Mobile
 [![Build status](https://build.appcenter.ms/v0.1/apps/d408fa8d-012a-40b0-829a-4682f01db6ca/branches/master/badge)](https://appcenter.ms)
 
 ## Technologies
