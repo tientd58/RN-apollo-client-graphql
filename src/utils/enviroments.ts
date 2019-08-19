@@ -1,1 +1,1 @@
-export const PLATFORM_API_URL = 'https://api.siroapp.com';
+export const PLATFORM_API_URL = '';
